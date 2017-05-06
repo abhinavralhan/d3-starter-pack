@@ -1,0 +1,14 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: auto;
+  position: relative;
+  width: 960px;
+  background-color: #38ff89;
+}
+
+text {
+  font: 10px sans-serif;
+}
+.xy{
+  margin-left:70px;
+}
